@@ -1,4 +1,4 @@
-Runnable in Linux
+Client-Server Architecture that is runnable in Linux
 
 Make sure client.cpp, server.cpp, clients.cpp, server.conf, client.conf, and Makefile are all included in linux directory
 Use "make" command to compile files, 
